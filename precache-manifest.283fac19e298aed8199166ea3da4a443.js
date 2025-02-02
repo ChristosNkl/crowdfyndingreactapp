@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bad23b14a4683fe3b0d95fa59acb9a7d",
+    "revision": "6924e62dd5f90c9c6acdeb101b9b5d1a",
     "url": "/crowdfyndingreactapp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crowdfyndingreactapp/static/css/2.dbb74888.chunk.css"
   },
   {
-    "revision": "8cbc044ef916412a569e",
+    "revision": "af548e940c4ba3d5ebe6",
     "url": "/crowdfyndingreactapp/static/css/main.873abcbd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crowdfyndingreactapp/static/js/2.5d091242.chunk.js"
   },
   {
-    "revision": "8cbc044ef916412a569e",
-    "url": "/crowdfyndingreactapp/static/js/main.39de0814.chunk.js"
+    "revision": "af548e940c4ba3d5ebe6",
+    "url": "/crowdfyndingreactapp/static/js/main.fe036d86.chunk.js"
   },
   {
     "revision": "8acfc8b5cc433c886a31",
