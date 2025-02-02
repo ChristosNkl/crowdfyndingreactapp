@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1, h3 {
+    color: #333;
+  }
+  
+  .card {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    background-color: #ffffff;
+  }
+  
+  
+  .btn {
+    font-weight: bold;
+  }
+  
+  table th, table td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
