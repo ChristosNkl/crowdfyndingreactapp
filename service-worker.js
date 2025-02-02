@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crowdfyndingreactapp/precache-manifest.283fac19e298aed8199166ea3da4a443.js"
+  "/crowdfyndingreactapp/precache-manifest.e9617f8dadc99fada46110cda8c9a710.js"
 );
 
 self.addEventListener('message', (event) => {
