@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ChristosNkl/crowdfyndingreactapp.git/static/css/main.873abcbd.chunk.css",
-    "main.js": "/ChristosNkl/crowdfyndingreactapp.git/static/js/main.39de0814.chunk.js",
-    "main.js.map": "/ChristosNkl/crowdfyndingreactapp.git/static/js/main.39de0814.chunk.js.map",
-    "runtime~main.js": "/ChristosNkl/crowdfyndingreactapp.git/static/js/runtime~main.83c5c7f1.js",
-    "runtime~main.js.map": "/ChristosNkl/crowdfyndingreactapp.git/static/js/runtime~main.83c5c7f1.js.map",
-    "static/css/2.dbb74888.chunk.css": "/ChristosNkl/crowdfyndingreactapp.git/static/css/2.dbb74888.chunk.css",
-    "static/js/2.5d091242.chunk.js": "/ChristosNkl/crowdfyndingreactapp.git/static/js/2.5d091242.chunk.js",
-    "static/js/2.5d091242.chunk.js.map": "/ChristosNkl/crowdfyndingreactapp.git/static/js/2.5d091242.chunk.js.map",
-    "index.html": "/ChristosNkl/crowdfyndingreactapp.git/index.html",
-    "precache-manifest.25a1db1b92324774d9ac9f76a6a5c60f.js": "/ChristosNkl/crowdfyndingreactapp.git/precache-manifest.25a1db1b92324774d9ac9f76a6a5c60f.js",
-    "service-worker.js": "/ChristosNkl/crowdfyndingreactapp.git/service-worker.js",
-    "static/css/2.dbb74888.chunk.css.map": "/ChristosNkl/crowdfyndingreactapp.git/static/css/2.dbb74888.chunk.css.map",
-    "static/css/main.873abcbd.chunk.css.map": "/ChristosNkl/crowdfyndingreactapp.git/static/css/main.873abcbd.chunk.css.map"
+    "main.css": "/crowdfyndingreactapp/static/css/main.873abcbd.chunk.css",
+    "main.js": "/crowdfyndingreactapp/static/js/main.39de0814.chunk.js",
+    "main.js.map": "/crowdfyndingreactapp/static/js/main.39de0814.chunk.js.map",
+    "runtime~main.js": "/crowdfyndingreactapp/static/js/runtime~main.cbdd23c7.js",
+    "runtime~main.js.map": "/crowdfyndingreactapp/static/js/runtime~main.cbdd23c7.js.map",
+    "static/css/2.dbb74888.chunk.css": "/crowdfyndingreactapp/static/css/2.dbb74888.chunk.css",
+    "static/js/2.5d091242.chunk.js": "/crowdfyndingreactapp/static/js/2.5d091242.chunk.js",
+    "static/js/2.5d091242.chunk.js.map": "/crowdfyndingreactapp/static/js/2.5d091242.chunk.js.map",
+    "index.html": "/crowdfyndingreactapp/index.html",
+    "precache-manifest.29adb160eb20fb7c303cde1b0e967524.js": "/crowdfyndingreactapp/precache-manifest.29adb160eb20fb7c303cde1b0e967524.js",
+    "service-worker.js": "/crowdfyndingreactapp/service-worker.js",
+    "static/css/2.dbb74888.chunk.css.map": "/crowdfyndingreactapp/static/css/2.dbb74888.chunk.css.map",
+    "static/css/main.873abcbd.chunk.css.map": "/crowdfyndingreactapp/static/css/main.873abcbd.chunk.css.map"
   }
 }
